@@ -2,4 +2,4 @@ Greeting Robot movement control--2019 Summer Research in McMaster University----
 
 Facial Recognization System Test in McMaster University, 2019 Summer Research----https://www.bilibili.com/video/av70000471/
 
-
+Facial Recognition System----some small tests in McMaster ---- https://www.bilibili.com/video/av70015622/
